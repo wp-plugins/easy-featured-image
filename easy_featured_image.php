@@ -5,7 +5,7 @@ Plugin URI: http://wordpress.org/extend/plugins/easy-featured-image/
 Version: 1.0
 Description: This plugin enables editting the featured images on the edit.php in the admin menu. You will need to put this in your functions.php to enable featured images:<?php add_theme_support('post-thumbnails'); ?>
 Author: Robert Braam
-Author URI: http://vannetti.nl
+Author URI: http://randommusicvideos.com
  */
  
 function show_featured_image_column( $defaults ) {
