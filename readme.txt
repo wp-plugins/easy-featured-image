@@ -17,7 +17,7 @@ On edit.php you will be able to see the currently used featured image for a post
 
 == Frequently Asked Questions ==
 = I don't see the tumbnails in my theme =
-You need to put <?php the_post_thumbnail(array( 100,100 )); ?> somewhere in your theme
+You need to put `<?php the_post_thumbnail(array( 100,100 )); ?>` somewhere in your theme
 
 == Changelog ==
 
